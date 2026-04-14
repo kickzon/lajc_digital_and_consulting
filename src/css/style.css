@@ -7,16 +7,10 @@
     --text-color: #f8f9fa;
 }
 
-body {
-    background-image: url('/img/Dator1.jpg');
-    background-size: cover;
-}
-
 h1 {
     color: var(--text-color);
     font-family: "Bruno Ace SC", sans-serif;
     text-align: center;
-    margin-top: 5%;
 }
 
 nav {

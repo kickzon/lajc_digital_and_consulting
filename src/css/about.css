@@ -1,0 +1,9 @@
+body {
+    background-image: url(/public/img/about_us_background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.about-content {
+    margin-top: 1%;
+}
